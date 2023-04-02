@@ -37,7 +37,7 @@ for (var i = 1; i <= 5; i++) {
   console.log(i);
 }
 
-//dialogue boxes in javascript
+// 1dialogue boxes in javascript
 // 1- alert
 // 2- prompt
 // 3- confirm
@@ -46,3 +46,27 @@ var myPrompt=prompt("hello I'm prompt ");
 console.log(myPrompt);
  var isBoy= confirm("are you boy")
 // sweet alert
+
+
+/*
+front end 
+html
+css 
+bootstrap => grid system
+javascript
+react js   /  Vue js / anguar
+
+--------------------
+
+backend developer
+php 
+mysql 
+laravel
+
+--------------------
+
+wazaf 
+LinkedIn 
+
+
+*/
