@@ -1,4 +1,4 @@
-var subject = "Hello Javascript";
+var subject = "Hello Javascript23";
 
 console.log(subject);
 console.log(subject.length); //16
@@ -9,6 +9,7 @@ console.log(subject.concat(" add")); //Hello Javascript add
 console.log(subject.endsWith("pt")); //true
 console.log(subject.toLowerCase());
 console.log(subject.toUpperCase());
+
 
 /*
 ==============task====================== 
